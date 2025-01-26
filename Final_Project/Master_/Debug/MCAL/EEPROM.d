@@ -1,0 +1,6 @@
+# FIXED
+
+MCAL/EEPROM.obj: ../MCAL/EEPROM.c
+
+../MCAL/EEPROM.c:
+
